@@ -1,0 +1,2 @@
+# Force HTTPS redirect
+http://blank-page-demo.netlify.app/* https://blank-page-demo.netlify.app/:splat 301!

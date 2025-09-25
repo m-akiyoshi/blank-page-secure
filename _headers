@@ -1,0 +1,8 @@
+/*
+  Content-Type: text/html; charset=utf-8
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy: default-src 'none'; base-uri 'self'; form-action 'none'; object-src 'none'; frame-ancestors 'none'; style-src 'unsafe-inline'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Frame-Options: DENY
+  Cache-Control: public, max-age=86400
